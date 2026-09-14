@@ -1,0 +1,34 @@
+[
+  {
+    "id": "emp-ali",
+    "name": "Ali Demo",
+    "mondayUserId": "900001",
+    "mondayName": "Ali Demo",
+    "phone": "+15550101001",
+    "role": "Ops"
+  },
+  {
+    "id": "emp-sara",
+    "name": "Sara Demo",
+    "mondayUserId": "900002",
+    "mondayName": "Sara Demo",
+    "phone": "+15550101002",
+    "role": "Design"
+  },
+  {
+    "id": "emp-bilal",
+    "name": "Bilal Demo",
+    "mondayUserId": "900003",
+    "mondayName": "Bilal Demo",
+    "phone": "+15550101003",
+    "role": "Engineering"
+  },
+  {
+    "id": "emp-noor",
+    "name": "Noor Demo",
+    "mondayUserId": "900004",
+    "mondayName": "Noor Demo",
+    "phone": "+15550101004",
+    "role": "Support"
+  }
+]
